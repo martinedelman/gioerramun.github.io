@@ -45,6 +45,7 @@ body {
   }
   
   a {
+    transition:all .9s ease;
     border: 1px solid  #ffffff;
     border-radius: 25px;
     height: 50px;
